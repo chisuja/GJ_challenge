@@ -1,0 +1,8 @@
+OS　Microsoft Windows10　バージョン1703(OSビルド15063.726)
+
+
+プロセッサー　Intel(R)Core(TM)i5-5200U CPU @ 2.20GHz 2.20GHz
+実装RAM　8.00GB(SSD)
+グラフィックボード　Intel(R)HD Graphics 5500
+DirectXバージョン　DirectX12
+容量　TI31397400A(C;)　95.4GB
